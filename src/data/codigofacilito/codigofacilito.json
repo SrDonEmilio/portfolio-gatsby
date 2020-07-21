@@ -1,0 +1,114 @@
+{
+  "data": {
+    "email": "emiliomartinezj@hotmail.com",
+    "username": "SrDonEmilio",
+    "certificates": [
+      {
+        "score": 9,
+        "code": "4483043f-f031-45b8-994e-6cf40bf267a1",
+        "title": "Curso Profesional de Backend"
+      },
+      {
+        "score": 9,
+        "code": "6d6ff22d-4811-44a3-b048-515e79556784",
+        "title": "Curso Profesional de React"
+      },
+      {
+        "score": 10,
+        "code": "6ed8bf63-ade2-4824-92a2-6502eefffabf",
+        "title": "Curso Profesional de JavaScript"
+      },
+      {
+        "score": 10,
+        "code": "b06f78d1-369a-4041-9413-4de0a9560db1",
+        "title": "Curso Profesional de Git"
+      }
+    ],
+    "articles": [],
+    "courses": [
+      {
+        "title": "Curso Profesional de JAVA",
+        "progress": "9.0",
+        "url": "http://codigofacilito.com/courses/java-profesional"
+      },
+      {
+        "title": "Curso gratis de jQuery",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/jquery"
+      },
+      {
+        "title": "Chatbots con Google Assistant y DialogFlow",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/introduccion-google-assistant"
+      },
+      {
+        "title": "Curso de Fundamentos de React",
+        "progress": "58.0",
+        "url": "http://codigofacilito.com/courses/react-intro-gratis"
+      },
+      {
+        "title": "Curso Profesional de JavaScript",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/javascript-profesional"
+      },
+      {
+        "title": "Curso Profesional de React",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/react-profesional"
+      },
+      {
+        "title": "Curso Profesional de Backend",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/backend-profesional"
+      },
+      {
+        "title": "Promesas en javaScript",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/javascript-promises"
+      },
+      {
+        "title": "Curso de noSQL con MongoDB",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/nosql-moongodb"
+      },
+      {
+        "title": "Curso para desarrollar servicios web REST con Nodejs",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/nodejs-servicios-web"
+      },
+      {
+        "title": "Crea un sitio personal con Gatsby",
+        "progress": "53.0",
+        "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+      },
+      {
+        "title": "Curso Profesional de Git",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/git-profesional"
+      }
+    ],
+    "finished_courses": [
+      {
+        "title": "Curso Profesional de JavaScript",
+        "url": "http://codigofacilito.com/courses/javascript-profesional"
+      },
+      {
+        "title": "Curso Profesional de React",
+        "url": "http://codigofacilito.com/courses/react-profesional"
+      },
+      {
+        "title": "Curso Profesional de Backend",
+        "url": "http://codigofacilito.com/courses/backend-profesional"
+      },
+      {
+        "title": "Promesas en javaScript",
+        "url": "http://codigofacilito.com/courses/javascript-promises"
+      },
+      {
+        "title": "Curso Profesional de Git",
+        "url": "http://codigofacilito.com/courses/git-profesional"
+      }
+    ]
+  },
+  "errors": []
+}

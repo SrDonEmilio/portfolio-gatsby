@@ -1,0 +1,15 @@
+{
+    "slug": "education",
+    "title": "Formación académica",
+    "description": "Formación académica, grados de estudio e instituciones a las que asistí",
+    "items": [
+        {
+            "name": "Facultad de Ingeniería, UNAM",
+            "degree": "Ing. en Computación (Trunco)"
+        },
+        {
+            "name": "Escuela Nacional Preparatoria #7, UNAM",
+            "degree": "Técnico en Computación"
+        }
+    ]
+}
